@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+.env
+.venv/
+venv/
+.vscode/
+.DS_Store
+
+Backend_Engineer/
+submit_test_job.py
+README.md

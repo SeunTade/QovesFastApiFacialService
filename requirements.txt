@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pillow
+opencv-python
+numpy
+python-multipart
+sqlalchemy
+alembic
+celery
+redis
+requests
+rich
+prometheus-fastapi-instrumentator
+psycopg2-binary

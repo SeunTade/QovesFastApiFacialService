@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.venv/
+venv/
+.envrc
+*.swp
+.DS_Store
+.vscode/
+.history/
+Thumbs.db
+ehthumbs.db
+Icon?
